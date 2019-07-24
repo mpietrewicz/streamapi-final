@@ -1,0 +1,17 @@
+• Utwórz klasę główną o nazwie Actresses, zawierającą metodę main
+
+• W tej klasie utwórz metodę o sygnaturze:
+     private static List<Actor> getActressesOfMovie(int movieNumber);
+
+• Metoda zostanie wywołana z poziomu metody main
+
+• Zadaniem metody jest zwrócenie kolekcji (listy) aktorek, które występują w filmie o podanym
+numerze
+
+• Aktorki spełniające powyższe kryteria trzeba wypisać na ekranie w porządku alfabetycznym według nazwisk i imion
+
+• Rozwiązanie powinno wykorzystywać Stream API
+
+• Uruchom aplikację wywołując utworzoną metodę dla filmu o numerze 3
+
+• Sprawdź, czy uzyskałeś prawidłowe wyniki

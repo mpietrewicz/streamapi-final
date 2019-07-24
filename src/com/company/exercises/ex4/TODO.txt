@@ -1,0 +1,15 @@
+• Utwórz klasę główną o nazwie Title, zawierającą metodę main
+
+• W tej klasie utwórz metodę o sygnaturze:
+     private static String getTitle(int movieNumber, String director);
+
+• Metoda zostanie wywołana z poziomu metody main
+
+• Zadaniem metody jest zwrócenie tytułu filmu, który został wyreżyserowany w podanej kolejności
+(parametr movieNumber) przez danego reżysera (parametr director)
+
+• Rozwiązanie powinno wykorzystywać Stream API
+
+• Uruchom aplikację wywołując utworzoną metodę dla Nancy Meyers oraz jej pierwszego, drugiego i trzeciego filmu
+
+• Sprawdź, czy uzyskałeś prawidłowe wyniki

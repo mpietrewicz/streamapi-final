@@ -1,0 +1,17 @@
+
+• Zapoznaj się z klasami modelu dotyczącymi aktorów i filmów - będą one stanowiły dane wykorzystywane w tym i
+pozostałych ćwiczeniach z tego modułu
+
+• Utwórz klasę główną o nazwie Actors, zawierającą metodę main
+
+• W tej klasie utwórz metodę o sygnaturze: private static List<Actor> getActors();
+
+• Metoda zostanie wywołana z poziomu metody main
+
+• Zadaniem metody jest zwrócenie kolekcji (listy) aktorów (mężczyzn), którzy pojawiają się w obsadach filmów
+
+• Aktorów spełniających powyższe kryteria trzeba wypisać na ekranie oraz zliczyć
+
+• Rozwiązanie powinno wykorzystywać Stream API
+
+• Uruchom aplikację i sprawdź, czy uzyskałeś prawidłowe wyniki

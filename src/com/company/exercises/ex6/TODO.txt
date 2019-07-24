@@ -1,0 +1,17 @@
+• Utwórz klasę główną o nazwie Actors, zawierającą metodę main
+
+• W tej klasie utwórz metodę o sygnaturze:
+     private static List<Actor> getActorsWithSpecificNames();
+
+• Metoda zostanie wywołana z poziomu metody main
+
+• Zadaniem metody jest zwrócenie kolekcji (listy) aktorów i aktorek, których imiona rozpoczynają
+się od litery ’J’ lub od ’K’
+
+• Lista powinna być posortowana według płci
+
+• Dodatkowo policz ile osób spełnia te kryteria
+
+• Rozwiązanie powinno wykorzystywać Stream API
+
+• Uruchom aplikację i sprawdź, czy uzyskałeś prawidłowe wyniki

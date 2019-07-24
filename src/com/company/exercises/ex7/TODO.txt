@@ -1,0 +1,19 @@
+• Utwórz klasę główną o nazwie Actors, zawierającą metodę main
+
+• W tej klasie utwórz metodę o sygnaturze:
+     private static Map<Sex, List<Actor>> getActorsWithSpecificNames();
+
+• Metoda zostanie wywołana z poziomu metody main
+
+• Zadaniem metody jest zwrócenie mapy aktorów i aktorek, których imiona rozpoczynają się od litery
+’J’ lub od ’K’
+
+• Pod kluczem Sex.F będzie dostępna kolekcja aktorek, a pod kluczem Sex.M – lista aktorów speł- niających zadane kryteria
+
+• Obie kolekcje powinny być posortowane według nazwisk w porządku alfabetycznym
+
+• Wypisz zawartość obu kolekcji i policz ich elementy
+
+• Rozwiązanie powinno wykorzystywać Stream API
+
+• Uruchom aplikację i sprawdź, czy uzyskałeś prawidłowe wyniki

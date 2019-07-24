@@ -1,0 +1,14 @@
+• Utwórz klasę główną o nazwie Movies, zawierającą metodę main
+
+• W tej klasie utwórz metodę o sygnaturze:
+     private static List<Movie> getMenMovies();
+
+• Metoda zostanie wywołana z poziomu metody main
+
+• Zadaniem metody jest zwrócenie kolekcji (listy) filmów, w których nie grają kobiety (całą obsadęvstanowią mężczyźni)
+
+• Dodatkowo policz ile jest takich filmów
+
+• Rozwiązanie powinno wykorzystywać Stream API
+
+• Uruchom aplikację i sprawdź, czy uzyskałeś prawidłowe wyniki
